@@ -5,18 +5,18 @@
     "image": "Port",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "https://github.com/jigar-sable/Portfolio-Website"
+      "view": "https://kalpeshsingh007.github.io/Portfolio/",
+      "code": "https://kalpeshsingh007.github.io/Portfolio/"
     }
   },
   {
-    "name": "Composey Website",
+    "name": "Company Website",
     "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
+    "image": "project2",
     "category": "basicweb",
     "links": {
-      "view": "https://composey.netlify.app/",
-      "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
+      "view": "https://kalpeshsingh007.github.io/Portfolio/",
+      "code": "https://kalpeshsingh007.github.io/Portfolio/"
     }
   }
 ]
